@@ -16,3 +16,8 @@ source_metadata:
       parent: Vajrayoginī
 created_at: '2022-03-01T01:00:58.534649'
 last_modified_at: '2022-03-01T01:00:58.534652'
+statistics:
+  total_words: 1757
+  total_non_words: 110
+quality:
+  non_words_ratio: 0.06
